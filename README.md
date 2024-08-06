@@ -34,3 +34,12 @@ Key Learning Outcomes:
 • Deepened understanding of EKS, worker nodes, control planes, and networking.
 • Adapted the LAMP (Linux, Apache, MySQL, PHP) stack to a cloud-native architecture.
 • Designed and implemented a robust VPC from scratch.
+
+![image](https://github.com/user-attachments/assets/9cd04d98-77cf-4f0d-aa01-9274f42f756b)
+
+![image](https://github.com/user-attachments/assets/2217cdfa-66fc-43ee-8a2c-041c9f31dd59)
+
+![image](https://github.com/user-attachments/assets/77fae607-1ad9-48a8-942b-bacb6df456d2)
+
+![image](https://github.com/user-attachments/assets/5add16f6-4445-4fcc-a3a6-993d85606df5)
+
